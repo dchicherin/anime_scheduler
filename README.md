@@ -9,3 +9,5 @@ Technical stack
 -freezed
 
 Follows Flutter clean architechture pattern
+
+Short demo is at https://github.com/dchicherin/anime_scheduler/blob/main/demo_scheduler.webm
